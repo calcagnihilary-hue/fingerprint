@@ -1,0 +1,13 @@
+{
+  "version": "0.0.2",
+  "notes": "本地更新服务示例。发布新版本时替换安装包地址、sha256 和 size。",
+  "pub_date": "2026-05-18T00:00:00.000Z",
+  "platforms": {
+    "x86_64-pc-windows-msvc": {
+      "url": "http://127.0.0.1:8787/downloads/app/fingerprint-0.1.0-setup.exe",
+      "fallback_url": "https://github.com/LeronCheng/fingerprint/releases/download/v0.1.0/fingerprint-0.1.0-setup.exe",
+      "sha256": "",
+      "size": 0
+    }
+  }
+}

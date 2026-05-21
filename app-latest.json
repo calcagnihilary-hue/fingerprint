@@ -1,13 +1,13 @@
 {
-  "version": "0.0.1",
-  "notes": "本地更新服务示例。发布新版本时替换安装包地址、sha256 和 size。",
-  "pub_date": "2026-05-18T00:00:00.000Z",
+  "version": "0.1.1",
+  "notes": "细微修复。",
+  "pub_date": "2026-05-21T00:00:00.000Z",
   "platforms": {
     "x86_64-pc-windows-msvc": {
-      "url": "http://127.0.0.1:8787/downloads/app/fingerprint-0.1.0-setup.exe",
-      "fallback_url": "https://github.com/LeronCheng/fingerprint/releases/download/v0.1.0/fingerprint-0.1.0-setup.exe",
-      "sha256": "",
-      "size": 0
+      "url": "https://github.com/calcagnihilary-hue/fingerprint/releases/download/fingerprint-0.1.1/_0.1.1_x64-setup.exe",
+      "fallback_url": "https://drive.zoogle.ltd/f/jjWs2/%E6%8C%87%E7%BA%B9%E6%B5%8F%E8%A7%88%E5%99%A8_0.1.1_x64-setup.exe",
+      "sha256": "sha256:a1ed06d2c4ba772c4f4ee6dc48c8cf4f418bdef8e24d8d7f1ea3e0a6a7f7bdc2",
+      "size": 17953274
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "cloakbrowser",
+  "channel": "stable",
+  "version": "chromium-v146.0.7680.177.5",
+  "pub_date": "2026-05-24T00:00:00.000Z",
+  "notes": "Update CloakBrowser stealth Chromium kernel.",
+  "platforms": {
+    "windows-x64": {
+      "archive_type": "zip",
+      "url": "https://github.com/CloakHQ/CloakBrowser/releases/download/chromium-v146.0.7680.177.5/cloakbrowser-windows-x64.zip",
+      "fallback_url": "https://drive.zoogle.ltd/f/EYXhD/cloakbrowser-windows-014-x64.zip",
+      "sha256": "b213795cb32c3169f766c74ce1d0275fc89d3df256de39c04da7fb4c23b7fdbe",
+      "size": 562004238,
+      "executable_relative_path": "chrome.exe"
+    }
+  }
+}

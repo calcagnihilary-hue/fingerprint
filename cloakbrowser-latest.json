@@ -7,7 +7,7 @@
   "platforms": {
     "windows-x64": {
       "archive_type": "zip",
-      "url": "https://gh-proxy.org/https://github.com/CloakHQ/CloakBrowser/releases/download/chromium-v146.0.7680.177.5/cloakbrowser-windows-x64.zip",
+      "url": "https://links.8uid.com/d/aff45196f76b10ca2766e49fa111b6e3",
       "fallback_url": "https://github.com/CloakHQ/CloakBrowser/releases/download/chromium-v146.0.7680.177.5/cloakbrowser-windows-x64.zip",
       "sha256": "b213795cb32c3169f766c74ce1d0275fc89d3df256de39c04da7fb4c23b7fdbe",
       "size": 562004238,
